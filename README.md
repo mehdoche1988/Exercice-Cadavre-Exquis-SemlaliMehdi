@@ -22,3 +22,5 @@ while (alive) {
 comment fais tu pour utiliser git ? Je me perds dans les commandes et 
 je n'utilise pas whatis... Alors le master dev lui appris une nouvelle 
 commande...
+
+Celui qui mange une noix de coco fait confiance à son anus. Comme dirait le grand parrain de tous les temps, la chenille n'a pas besoin de lunette pour boire l'eau. En paralelle et en lien étroit avec la crocodile qui n'attend pas que le gorille accouche.
