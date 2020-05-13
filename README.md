@@ -18,3 +18,7 @@ while (alive) {
 }
 ```
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
+
+comment fais tu pour utiliser git ? Je me perds dans les commandes et 
+je n'utilise pas whatis... Alors le master dev lui appris une nouvelle 
+commande...
