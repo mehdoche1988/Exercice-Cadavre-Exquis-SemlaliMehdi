@@ -24,3 +24,5 @@ je n'utilise pas whatis... Alors le master dev lui appris une nouvelle
 commande...
 
 RTFM ;)
+
+il s'inscrit chez BeCode , était-ce une bonne idée ? 
