@@ -32,3 +32,5 @@ Chez BeCode, il fit la connaisaance de plein d'autres personnes un peu perdue.
 Mais ils travaillèrent ensemble pour apprendre.
 
 **Comment ne serait-ce pas une bonne idée?***
+
+Beaucoup de choses à dire mais le moment n'est pas proice, j'ao confince en toi et en ton courage
