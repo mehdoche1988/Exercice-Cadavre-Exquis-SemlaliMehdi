@@ -26,3 +26,9 @@ commande...
 RTFM ;)
 
 il s'inscrit chez BeCode , était-ce une bonne idée ? 
+
+Chez BeCode, il fit la connaisaance de plein d'autres personnes un peu perdue.
+
+Mais ils travaillèrent ensemble pour apprendre.
+
+**Comment ne serait-ce pas une bonne idée?***
